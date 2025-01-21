@@ -9,7 +9,7 @@ const Contact = () => {
       <div className='grid md:grid-cols-1 gap-10 text-center'>
         <div className='space-y-8'>
           <Heading title='Contact' />
-          <h3 className='text-5xl text-teal-300 text-center' data-aos="zoom-in-up">Get In Touch</h3>
+          <h3 className='text-5xl text-teal-300 text-center' data-aos="zoom-in-up">Get In Touch!</h3>
           <p className='text-amber-400 text-center text-[18px] pt-2' data-aos="zoom-in-up">
             If you want your Portfolio like this then contact me. I also design the CV (Resume) with the best designs.
           </p>
